@@ -1,21 +1,5 @@
 [ {
     "region": "asia",
-    "code": "th",
-    "country": "Thailand",
-    "now": 514.836,
-    "gdp-22": 500.753,
-    "gdp-22-23": 14.083,
-    "now-pc": 7335.637,
-    "gdp-pc-22": 7143.892,
-    "gdp-pc-22-23": 191.745,
-    "nowPPP": 1683.069,
-    "gdpPPP-22": 1594.606,
-    "gdpPPP-22-23": 88.463,
-    "nowPPP-pc": 23981.207,
-    "gdpPPP-pc-22": 22750.645,
-    "gdpPPP-pc-22-23": 1230.562
-},{
-    "region": "asia",
     "code": "vn",
     "country": "Vietnam",
     "now": 433.702,
@@ -30,6 +14,38 @@
     "nowPPP-pc": 14981.697,
     "gdpPPP-pc-22": 13770.126,
     "gdpPPP-pc-22-23": 1211.571
+},{
+    "region": "asia",
+    "code": "my",
+    "country": "Malaysia",
+    "now": 399.705,
+    "gdp-22": 359.662,
+    "gdp-22-23": 40.043,
+    "now-pc": 12090.597,
+    "gdp-pc-22": 11038.849,
+    "gdp-pc-22-23": 1051.748,
+    "nowPPP": 1279.182,
+    "gdpPPP-22": 1185.754,
+    "gdpPPP-22-23": 93.428,
+    "nowPPP-pc": 38693.715,
+    "gdpPPP-pc-22": 36365.469,
+    "gdpPPP-pc-22-23": 2328.246
+}, {
+    "region": "asia",
+    "code": "th",
+    "country": "Thailand",
+    "now": 514.836,
+    "gdp-22": 500.753,
+    "gdp-22-23": 14.083,
+    "now-pc": 7335.637,
+    "gdp-pc-22": 7143.892,
+    "gdp-pc-22-23": 191.745,
+    "nowPPP": 1683.069,
+    "gdpPPP-22": 1594.606,
+    "gdpPPP-22-23": 88.463,
+    "nowPPP-pc": 23981.207,
+    "gdpPPP-pc-22": 22750.645,
+    "gdpPPP-pc-22-23": 1230.562
 }, {
     "region": "asia",
     "code": "jp",
@@ -1726,22 +1742,6 @@
     "nowPPP-pc": 1691.672,
     "gdpPPP-pc-22": 1669.57,
     "gdpPPP-pc-22-23": 22.102
-}, {
-    "region": "asia",
-    "code": "my",
-    "country": "Malaysia",
-    "now": 399.705,
-    "gdp-22": 359.662,
-    "gdp-22-23": 40.043,
-    "now-pc": 12090.597,
-    "gdp-pc-22": 11038.849,
-    "gdp-pc-22-23": 1051.748,
-    "nowPPP": 1279.182,
-    "gdpPPP-22": 1185.754,
-    "gdpPPP-22-23": 93.428,
-    "nowPPP-pc": 38693.715,
-    "gdpPPP-pc-22": 36365.469,
-    "gdpPPP-pc-22-23": 2328.246
 }, {
     "region": "asia",
     "code": "mv",
