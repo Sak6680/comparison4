@@ -1,0 +1,1423 @@
+[{
+    "gdp-22": 71753.808,
+    "now": 71753.808,
+    "gdp-22-23": 94.942,
+    "code": "th",
+    "country": "Thailand"
+},{
+    "gdp-22": 98531.429,
+    "now": 98531.429,
+    "gdp-22-23": 655.042,
+    "code": "vn",
+    "country": "Viet Nam"
+}, {
+    "gdp-22": 123625.074,
+    "now": 123625.074,
+    "gdp-22-23": -661.122,
+    "code": "jp",
+    "country": "Japan"
+},{
+    "gdp-22": 1422026.528,
+    "now": 1422026.528,
+    "gdp-22-23": 13202.27,
+    "code": "in",
+    "country": "India"
+},{
+    "gdp-22": 339080.235,
+    "now": 339080.235,
+    "gdp-22-23": 1832.657,
+    "code": "us",
+    "country": "United States"
+},{
+    "gdp-22": 1425849.288,
+    "now": 1425849.288,
+    "gdp-22-23": -355.872,
+    "code": "cn",
+    "country": "China"
+},{
+    "gdp-22": 13063.283,
+    "now": 13063.283,
+    "gdp-22-23": 350.552,
+    "code": "bi",
+    "country": "Burundi"
+}, {
+    "gdp-22": 844.302,
+    "now": 844.302,
+    "gdp-22-23": 15.546,
+    "code": "km",
+    "country": "Comoros"
+}, {
+    "gdp-22": 1128.55,
+    "now": 1128.55,
+    "gdp-22-23": 15.809,
+    "code": "dj",
+    "country": "Djibouti"
+}, {
+    "gdp-22": 3715.522,
+    "now": 3715.522,
+    "gdp-22-23": 66.759,
+    "code": "er",
+    "country": "Eritrea"
+}, {
+    "gdp-22": 124937.259,
+    "now": 124937.259,
+    "gdp-22-23": 3179.602,
+    "code": "et",
+    "country": "Ethiopia"
+}, {
+    "gdp-22": 54555.095,
+    "now": 54555.095,
+    "gdp-22-23": 1090.983,
+    "code": "ke",
+    "country": "Kenya"
+}, {
+    "gdp-22": 29963.345,
+    "now": 29963.345,
+    "gdp-22-23": 724.774,
+    "code": "mg",
+    "country": "Madagascar"
+}, {
+    "gdp-22": 20664.39,
+    "now": 20664.39,
+    "gdp-22-23": 534.722,
+    "code": "mw",
+    "country": "Malawi"
+}, {
+    "gdp-22": 1299.804,
+    "now": 1299.804,
+    "gdp-22-23": 1.506,
+    "code": "mu",
+    "country": "Mauritius"
+}, {
+    "gdp-22": 330.996,
+    "now": 330.996,
+    "gdp-22-23": 9.998,
+    "code": "yt",
+    "country": "Mayotte"
+}, {
+    "gdp-22": 33420.619,
+    "now": 33420.619,
+    "gdp-22-23": 953.47,
+    "code": "mz",
+    "country": "Mozambique"
+}, {
+    "gdp-22": 977.972,
+    "now": 977.972,
+    "gdp-22-23": 7.648,
+    "code": "re",
+    "country": "Réunion"
+}, {
+    "gdp-22": 13935.012,
+    "now": 13935.012,
+    "gdp-22-23": 319.342,
+    "code": "rw",
+    "country": "Rwanda"
+}, {
+    "gdp-22": 107.35,
+    "now": 107.35,
+    "gdp-22-23": 0.62,
+    "code": "sc",
+    "country": "Seychelles"
+}, {
+    "gdp-22": 17865.03,
+    "now": 17865.03,
+    "gdp-22-23": 556.697,
+    "code": "so",
+    "country": "Somalia"
+}, {
+    "gdp-22": 10996.795,
+    "now": 10996.795,
+    "gdp-22-23": 184.002,
+    "code": "ss",
+    "country": "South Sudan"
+}, {
+    "gdp-22": 47914.973,
+    "now": 47914.973,
+    "gdp-22-23": 1334.722,
+    "code": "ug",
+    "country": "Uganda"
+}, {
+    "gdp-22": 66455.898,
+    "now": 66455.898,
+    "gdp-22-23": 1964.416,
+    "code": "tz",
+    "country": "Tanzania"
+}, {
+    "gdp-22": 20289.612,
+    "now": 20289.612,
+    "gdp-22-23": 560.251,
+    "code": "zm",
+    "country": "Zambia"
+}, {
+    "gdp-22": 16488.132,
+    "now": 16488.132,
+    "gdp-22-23": 354.553,
+    "code": "zw",
+    "country": "Zimbabwe"
+}, {
+    "gdp-22": 36128.402,
+    "now": 36128.402,
+    "gdp-22-23": 1111.601,
+    "code": "ao",
+    "country": "Angola"
+}, {
+    "gdp-22": 28276.861,
+    "now": 28276.861,
+    "gdp-22-23": 740.864,
+    "code": "cm",
+    "country": "Cameroon"
+}, {
+    "gdp-22": 5657.992,
+    "now": 5657.992,
+    "gdp-22-23": 168.647,
+    "code": "cf",
+    "country": "Central African"
+}, {
+    "gdp-22": 17997.367,
+    "now": 17997.367,
+    "gdp-22-23": 562.401,
+    "code": "td",
+    "country": "Chad"
+}, {
+    "gdp-22": 6038.296,
+    "now": 6038.296,
+    "gdp-22-23": 137.146,
+    "code": "cg",
+    "country": "Congo"
+}, {
+    "gdp-22": 100606.566,
+    "now": 100606.566,
+    "gdp-22-23": 3312.485,
+    "code": "cd",
+    "country": "D.R Congo"
+}, {
+    "gdp-22": 1694.609,
+    "now": 1694.609,
+    "gdp-22-23": 40.125,
+    "code": "gq",
+    "country": "EquatorialGuinea"
+}, {
+    "gdp-22": 2412.778,
+    "now": 2412.778,
+    "gdp-22-23": 47.577,
+    "code": "ga",
+    "country": "Gabon"
+}, {
+    "gdp-22": 229.604,
+    "now": 229.604,
+    "gdp-22-23": 4.503,
+    "code": "st",
+    "country": "S. T.Principe"
+}, {
+    "gdp-22": 45262.858,
+    "now": 45262.858,
+    "gdp-22-23": 687.245,
+    "code": "dz",
+    "country": "Algeria"
+}, {
+    "gdp-22": 111847.4,
+    "now": 111847.4,
+    "gdp-22-23": 1738.397,
+    "code": "eg",
+    "country": "Egypt"
+}, {
+    "gdp-22": 6849.984,
+    "now": 6849.984,
+    "gdp-22-23": 76.808,
+    "code": "ly",
+    "country": "Libya"
+}, {
+    "gdp-22": 37651.472,
+    "now": 37651.472,
+    "gdp-22-23": 377.144,
+    "code": "ma",
+    "country": "Morocco"
+}, {
+    "gdp-22": 47486.909,
+    "now": 47486.909,
+    "gdp-22-23": 1244.194,
+    "code": "sd",
+    "country": "Sudan"
+}, {
+    "gdp-22": 12403.537,
+    "now": 12403.537,
+    "gdp-22-23": 109.372,
+    "code": "tn",
+    "country": "Tunisia"
+}, {
+    "gdp-22": 581.66,
+    "now": 581.66,
+    "gdp-22-23": 11.197,
+    "code": "eh",
+    "country": "Western Sahara"
+}, {
+    "gdp-22": 2653.009,
+    "now": 2653.009,
+    "gdp-22-23": 44.687,
+    "code": "bw",
+    "country": "Botswana"
+}, {
+    "gdp-22": 1205.887,
+    "now": 1205.887,
+    "gdp-22-23": 9.869,
+    "code": "sz",
+    "country": "Eswatini"
+}, {
+    "gdp-22": 2317.338,
+    "now": 2317.338,
+    "gdp-22-23": 25.959,
+    "code": "ls",
+    "country": "Lesotho"
+}, {
+    "gdp-22": 2584.843,
+    "now": 2584.843,
+    "gdp-22-23": 38.658,
+    "code": "na",
+    "country": "Namibia"
+}, {
+    "gdp-22": 60140.971,
+    "now": 60140.971,
+    "gdp-22-23": 547.047,
+    "code": "za",
+    "country": "South Africa"
+}, {
+    "gdp-22": 13531.365,
+    "now": 13531.365,
+    "gdp-22-23": 362.926,
+    "code": "bj",
+    "country": "Benin"
+}, {
+    "gdp-22": 22959.516,
+    "now": 22959.516,
+    "gdp-22-23": 583.938,
+    "code": "bf",
+    "country": "Burkina Faso"
+}, {
+    "gdp-22": 595.796,
+    "now": 595.796,
+    "gdp-22-23": 5.772,
+    "code": "cv",
+    "country": "Cabo Verde"
+}, {
+    "gdp-22": 28510.594,
+    "now": 28510.594,
+    "gdp-22-23": 724.879,
+    "code": "ci",
+    "country": "Côte d'Ivoire"
+}, {
+    "gdp-22": 2739.094,
+    "now": 2739.094,
+    "gdp-22-23": 68.148,
+    "code": "gm",
+    "country": "Gambia"
+}, {
+    "gdp-22": 33797.235,
+    "now": 33797.235,
+    "gdp-22-23": 649.5,
+    "code": "gh",
+    "country": "Ghana"
+}, {
+    "gdp-22": 14023.588,
+    "now": 14023.588,
+    "gdp-22-23": 334.048,
+    "code": "gn",
+    "country": "Guinea"
+}, {
+    "gdp-22": 2128.042,
+    "now": 2128.042,
+    "gdp-22-23": 45.6,
+    "code": "gw",
+    "country": "Guinea-Bissau"
+}, {
+    "gdp-22": 5359.509,
+    "now": 5359.509,
+    "gdp-22-23": 117.735,
+    "code": "lr",
+    "country": "Liberia"
+}, {
+    "gdp-22": 22938.514,
+    "now": 22938.514,
+    "gdp-22-23": 710.369,
+    "code": "ml",
+    "country": "Mali"
+}, {
+    "gdp-22": 4798.604,
+    "now": 4798.604,
+    "gdp-22-23": 128.769,
+    "code": "mr",
+    "country": "Mauritania"
+}, {
+    "gdp-22": 26696.096,
+    "now": 26696.096,
+    "gdp-22-23": 1013.494,
+    "code": "ne",
+    "country": "Niger"
+}, {
+    "gdp-22": 221153.992,
+    "now": 221153.992,
+    "gdp-22-23": 5301.28,
+    "code": "ng",
+    "country": "Nigeria"
+}, {
+    "gdp-22": 5.346,
+    "now": 5.346,
+    "gdp-22-23": -0.065,
+    "code": "sh",
+    "country": "Saint Helena"
+}, {
+    "gdp-22": 17536.231,
+    "now": 17536.231,
+    "gdp-22-23": 453.864,
+    "code": "sn",
+    "country": "Senegal"
+}, {
+    "gdp-22": 8697.886,
+    "now": 8697.886,
+    "gdp-22-23": 186.412,
+    "code": "sl",
+    "country": "Sierra Leone"
+}, {
+    "gdp-22": 8950.663,
+    "now": 8950.663,
+    "gdp-22-23": 206.272,
+    "code": "tg",
+    "country": "Togo"
+}, {
+    "gdp-22": 19500.494,
+    "now": 19500.494,
+    "gdp-22-23": 212.279,
+    "code": "kz",
+    "country": "Kazakhstan"
+}, {
+    "gdp-22": 6683.177,
+    "now": 6683.177,
+    "gdp-22-23": 104.341,
+    "code": "kg",
+    "country": "Kyrgyzstan"
+}, {
+    "gdp-22": 10049.043,
+    "now": 10049.043,
+    "gdp-22-23": 189,
+    "code": "tj",
+    "country": "Tajikistan"
+}, {
+    "gdp-22": 6474.341,
+    "now": 6474.341,
+    "gdp-22-23": 83.518,
+    "code": "tm",
+    "country": "Turkmenistan"
+}, {
+    "gdp-22": 34902.257,
+    "now": 34902.257,
+    "gdp-22-23": 523.373,
+    "code": "uz",
+    "country": "Uzbekistan"
+},  {
+    "gdp-22": 7488.581,
+    "now": 7488.581,
+    "gdp-22-23": 6.055,
+    "code": "hk",
+    "country": "Hong Kong"
+}, {
+    "gdp-22": 699.67,
+    "now": 699.67,
+    "gdp-22-23": 8.959,
+    "code": "mo",
+    "country": "Macao"
+}, {
+    "gdp-22": 23908.998,
+    "now": 23908.998,
+    "gdp-22-23": 28.557,
+    "code": "tw",
+    "country": "Taiwan"
+}, {
+    "gdp-22": 26116.716,
+    "now": 26116.716,
+    "gdp-22-23": 88.211,
+    "code": "kp",
+    "country": "North Korea"
+},  {
+    "gdp-22": 3423.374,
+    "now": 3423.374,
+    "gdp-22-23": 47.565,
+    "code": "mn",
+    "country": "Mongolia"
+}, {
+    "gdp-22": 51802.594,
+    "now": 51802.594,
+    "gdp-22-23": -37.07,
+    "code": "kr",
+    "country": "South Korea"
+}, {
+    "gdp-22": 41677.052,
+    "now": 41677.052,
+    "gdp-22-23": 1125.604,
+    "code": "af",
+    "country": "Afghanistan"
+}, {
+    "gdp-22": 172075.151,
+    "now": 172075.151,
+    "gdp-22-23": 1758.336,
+    "code": "bd",
+    "country": "Bangladesh"
+}, {
+    "gdp-22": 784.945,
+    "now": 784.945,
+    "gdp-22-23": 4.959,
+    "code": "bt",
+    "country": "Bhutan"
+},  {
+    "gdp-22": 88844.498,
+    "now": 88844.498,
+    "gdp-22-23": 656.538,
+    "code": "ir",
+    "country": "Iran"
+}, {
+    "gdp-22": 522.645,
+    "now": 522.645,
+    "gdp-22-23": -3.247,
+    "code": "mv",
+    "country": "Maldives"
+}, {
+    "gdp-22": 30723.209,
+    "now": 30723.209,
+    "gdp-22-23": 346.762,
+    "code": "np",
+    "country": "Nepal"
+}, {
+    "gdp-22": 238126.113,
+    "now": 238126.113,
+    "gdp-22-23": 4719.089,
+    "code": "pk",
+    "country": "Pakistan"
+}, {
+    "gdp-22": 21864.402,
+    "now": 21864.402,
+    "gdp-22-23": 58.354,
+    "code": "lk",
+    "country": "Sri Lanka"
+}, {
+    "gdp-22": 450.814,
+    "now": 450.814,
+    "gdp-22-23": 3.419,
+    "code": "bn",
+    "country": "Brunei"
+}, {
+    "gdp-22": 16855.079,
+    "now": 16855.079,
+    "gdp-22-23": 179.494,
+    "code": "kh",
+    "country": "Cambodia"
+}, {
+    "gdp-22": 276386.389,
+    "now": 276386.389,
+    "gdp-22-23": 2295.467,
+    "code": "id",
+    "country": "Indonesia"
+}, {
+    "gdp-22": 7581.98,
+    "now": 7581.98,
+    "gdp-22-23": 103.597,
+    "code": "la",
+    "country": "Laos"
+}, {
+    "gdp-22": 34125.044,
+    "now": 34125.044,
+    "gdp-22-23": 366.962,
+    "code": "my",
+    "country": "Malaysia"
+}, {
+    "gdp-22": 54380.868,
+    "now": 54380.868,
+    "gdp-22-23": 394.258,
+    "code": "mm",
+    "country": "Myanmar"
+}, {
+    "gdp-22": 116451.694,
+    "now": 116451.694,
+    "gdp-22-23": 1771.348,
+    "code": "ph",
+    "country": "Philippines"
+}, {
+    "gdp-22": 5995.476,
+    "now": 5995.476,
+    "gdp-22-23": 38.494,
+    "code": "sg",
+    "country": "Singapore"
+},  {
+    "gdp-22": 1350.944,
+    "now": 1350.944,
+    "gdp-22-23": 19.304,
+    "code": "tl",
+    "country": "Timor-Leste"
+}, {
+    "gdp-22": 2777.712,
+    "now": 2777.712,
+    "gdp-22-23": 0.517,
+    "code": "am",
+    "country": "Armenia"
+}, {
+    "gdp-22": 10386.538,
+    "now": 10386.538,
+    "gdp-22-23": 52.227,
+    "code": "az",
+    "country": "Azerbaijan"
+}, {
+    "gdp-22": 1478.84,
+    "now": 1478.84,
+    "gdp-22-23": 13.339,
+    "code": "bh",
+    "country": "Bahrain"
+}, {
+    "gdp-22": 1255.897,
+    "now": 1255.897,
+    "gdp-22-23": 8.482,
+    "code": "cy",
+    "country": "Cyprus"
+}, {
+    "gdp-22": 3735.452,
+    "now": 3735.452,
+    "gdp-22-23": -14.34,
+    "code": "ge",
+    "country": "Georgia"
+}, {
+    "gdp-22": 44996.074,
+    "now": 44996.074,
+    "gdp-22-23": 1016.972,
+    "code": "iq",
+    "country": "Iraq"
+}, {
+    "gdp-22": 9105.885,
+    "now": 9105.885,
+    "gdp-22-23": 137.269,
+    "code": "il",
+    "country": "Israel"
+}, {
+    "gdp-22": 11315.547,
+    "now": 11315.547,
+    "gdp-22-23": 43.011,
+    "code": "jo",
+    "country": "Jordan"
+}, {
+    "gdp-22": 4290.046,
+    "now": 4290.046,
+    "gdp-22-23": 40.123,
+    "code": "kw",
+    "country": "Kuwait"
+}, {
+    "gdp-22": 5425.542,
+    "now": 5425.542,
+    "gdp-22-23": -143.225,
+    "code": "lb",
+    "country": "Lebanon"
+}, {
+    "gdp-22": 4609.315,
+    "now": 4609.315,
+    "gdp-22-23": 70.138,
+    "code": "om",
+    "country": "Oman"
+}, {
+    "gdp-22": 2705.914,
+    "now": 2705.914,
+    "gdp-22-23": 20.954,
+    "code": "qa",
+    "country": "Qatar"
+}, {
+    "gdp-22": 36681.089,
+    "now": 36681.089,
+    "gdp-22-23": 531.872,
+    "code": "sa",
+    "country": "Saudi Arabia"
+}, {
+    "gdp-22": 5310.178,
+    "now": 5310.178,
+    "gdp-22-23": 122.104,
+    "code": "ps",
+    "country": "Palestine"
+}, {
+    "gdp-22": 22660.911,
+    "now": 22660.911,
+    "gdp-22-23": 1132.205,
+    "code": "sy",
+    "country": "Syrian"
+}, {
+    "gdp-22": 85590.849,
+    "now": 85590.849,
+    "gdp-22-23": 450.7,
+    "code": "tr",
+    "country": "Türkiye"
+}, {
+    "gdp-22": 9478.996,
+    "now": 9478.996,
+    "gdp-22-23": 75.75,
+    "code": "ae",
+    "country": "U.A.E"
+}, {
+    "gdp-22": 34070.907,
+    "now": 34070.907,
+    "gdp-22-23": 757.836,
+    "code": "ye",
+    "country": "Yemen"
+}, {
+    "gdp-22": 9520.011,
+    "now": 9520.011,
+    "gdp-22-23": -43.546,
+    "code": "by",
+    "country": "Belarus"
+}, {
+    "gdp-22": 6730.285,
+    "now": 6730.285,
+    "gdp-22-23": -85.136,
+    "code": "bg",
+    "country": "Bulgaria"
+}, {
+    "gdp-22": 10490.467,
+    "now": 10490.467,
+    "gdp-22-23": 9.656,
+    "code": "cz",
+    "country": "Czechia"
+}, {
+    "gdp-22": 10246.068,
+    "now": 10246.068,
+    "gdp-22-23": -179.658,
+    "code": "hu",
+    "country": "Hungary"
+}, {
+    "gdp-22": 41477.607,
+    "now": 41477.607,
+    "gdp-22-23": -903.079,
+    "code": "pl",
+    "country": "Poland"
+}, {
+    "gdp-22": 3497.649,
+    "now": 3497.649,
+    "gdp-22-23": -123.436,
+    "code": "md",
+    "country": "Moldova"
+}, {
+    "gdp-22": 20055.76,
+    "now": 20055.76,
+    "gdp-22-23": -325.896,
+    "code": "ro",
+    "country": "Romania"
+}, {
+    "gdp-22": 144694.112,
+    "now": 144694.112,
+    "gdp-22-23": -499.506,
+    "code": "ru",
+    "country": "Russian"
+}, {
+    "gdp-22": 5847.471,
+    "now": 5847.471,
+    "gdp-22-23": -104.544,
+    "code": "sk",
+    "country": "Slovakia"
+}, {
+    "gdp-22": 36069.274,
+    "now": 36069.274,
+    "gdp-22-23": 1350.719,
+    "code": "ua",
+    "country": "Ukraine"
+}, {
+    "gdp-22": 5896.546,
+    "now": 5896.546,
+    "gdp-22-23": 28.734,
+    "code": "dk",
+    "country": "Denmark"
+}, {
+    "gdp-22": 1324.524,
+    "now": 1324.524,
+    "gdp-22-23": -3.517,
+    "code": "ee",
+    "country": "Estonia"
+}, {
+    "gdp-22": 53.184,
+    "now": 53.184,
+    "gdp-22-23": 0.171,
+    "code": "fo",
+    "country": "Faroe Islands"
+}, {
+    "gdp-22": 5543.228,
+    "now": 5543.228,
+    "gdp-22-23": 4.493,
+    "code": "fi",
+    "country": "Finland"
+}, {
+    "gdp-22": 63.425,
+    "now": 63.425,
+    "gdp-22-23": 0.238,
+    "code": "gg",
+    "country": "Guernsey"
+}, {
+    "gdp-22": 374.125,
+    "now": 374.125,
+    "gdp-22-23": 2.387,
+    "code": "is",
+    "country": "Iceland"
+}, {
+    "gdp-22": 5040.329,
+    "now": 5040.329,
+    "gdp-22-23": 33.211,
+    "code": "ie",
+    "country": "Ireland"
+}, {
+    "gdp-22": 84.605,
+    "now": 84.605,
+    "gdp-22-23": 0.21,
+    "code": "im",
+    "country": "Isle of Man"
+}, {
+    "gdp-22": 111.284,
+    "now": 111.284,
+    "gdp-22-23": 1.037,
+    "code": "je",
+    "country": "Jersey"
+}, {
+    "gdp-22": 1840.324,
+    "now": 1840.324,
+    "gdp-22-23": -20.225,
+    "code": "lv",
+    "country": "Latvia"
+}, {
+    "gdp-22": 2731.442,
+    "now": 2731.442,
+    "gdp-22-23": -26.181,
+    "code": "lt",
+    "country": "Lithuania"
+}, {
+    "gdp-22": 5454.319,
+    "now": 5454.319,
+    "gdp-22-23": 40.082,
+    "code": "no",
+    "country": "Norway"
+}, {
+    "gdp-22": 10581.025,
+    "now": 10581.025,
+    "gdp-22-23": 62.122,
+    "code": "se",
+    "country": "Sweden"
+}, {
+    "gdp-22": 67623.566,
+    "now": 67623.566,
+    "gdp-22-23": 226.472,
+    "code": "gb",
+    "country": "UK"
+}, {
+    "gdp-22": 2836.789,
+    "now": 2836.789,
+    "gdp-22-23": -8.7,
+    "code": "al",
+    "country": "Albania"
+}, {
+    "gdp-22": 79.96,
+    "now": 79.96,
+    "gdp-22-23": 0.256,
+    "code": "ad",
+    "country": "Andorra"
+}, {
+    "gdp-22": 3221.008,
+    "now": 3221.008,
+    "gdp-22-23": -20.321,
+    "code": "ba",
+    "country": "Bosnia & Herz.."
+}, {
+    "gdp-22": 4019.544,
+    "now": 4019.544,
+    "gdp-22-23": -21.855,
+    "code": "hr",
+    "country": "Croatia"
+}, {
+    "gdp-22": 32.673,
+    "now": 32.673,
+    "gdp-22-23": 0.031,
+    "code": "gi",
+    "country": "Gibraltar"
+}, {
+    "gdp-22": 10360.33,
+    "now": 10360.33,
+    "gdp-22-23": -38.106,
+    "code": "gr",
+    "country": "Greece"
+}, {
+    "gdp-22": 0.513,
+    "now": 0.513,
+    "gdp-22-23": 0.009,
+    "code": "va",
+    "country": "Holy See"
+}, {
+    "gdp-22": 58955.548,
+    "now": 58955.548,
+    "gdp-22-23": -169.571,
+    "code": "it",
+    "country": "Italy"
+}, {
+    "gdp-22": 1661.667,
+    "now": 1661.667,
+    "gdp-22-23": 3.855,
+    "code": "xk",
+    "country": "Kosovo"
+}, {
+    "gdp-22": 534.197,
+    "now": 534.197,
+    "gdp-22-23": 1.735,
+    "code": "mt",
+    "country": "Malta"
+}, {
+    "gdp-22": 626.653,
+    "now": 626.653,
+    "gdp-22-23": -0.337,
+    "code": "me",
+    "country": "Montenegro"
+}, {
+    "gdp-22": 2088.656,
+    "now": 2088.656,
+    "gdp-22-23": -5.954,
+    "code": "mk",
+    "country": "North Macedonia"
+}, {
+    "gdp-22": 10259.508,
+    "now": 10259.508,
+    "gdp-22-23": -23.806,
+    "code": "pt",
+    "country": "Portugal"
+}, {
+    "gdp-22": 33.652,
+    "now": 33.652,
+    "gdp-22-23": -0.02,
+    "code": "sm",
+    "country": "San Marino"
+}, {
+    "gdp-22": 7181.14,
+    "now": 7181.14,
+    "gdp-22-23": -64.127,
+    "code": "rs",
+    "country": "Serbia"
+}, {
+    "gdp-22": 2119.899,
+    "now": 2119.899,
+    "gdp-22-23": -0.449,
+    "code": "si",
+    "country": "Slovenia"
+}, {
+    "gdp-22": 47541.049,
+    "now": 47541.049,
+    "gdp-22-23": -42.843,
+    "code": "es",
+    "country": "Spain"
+}, {
+    "gdp-22": 8949.518,
+    "now": 8949.518,
+    "gdp-22-23": 18.885,
+    "code": "at",
+    "country": "Austria"
+}, {
+    "gdp-22": 11671.181,
+    "now": 11671.181,
+    "gdp-22-23": 29.918,
+    "code": "be",
+    "country": "Belgium"
+}, {
+    "gdp-22": 64692.714,
+    "now": 64692.714,
+    "gdp-22-23": 127.74,
+    "code": "fr",
+    "country": "France"
+}, {
+    "gdp-22": 83312.897,
+    "now": 83312.897,
+    "gdp-22-23": -36.529,
+    "code": "de",
+    "country": "Germany"
+}, {
+    "gdp-22": 39.458,
+    "now": 39.458,
+    "gdp-22-23": 0.253,
+    "code": "li",
+    "country": "Liechtenstein"
+}, {
+    "gdp-22": 651.276,
+    "now": 651.276,
+    "gdp-22-23": 6.983,
+    "code": "lu",
+    "country": "Luxembourg"
+}, {
+    "gdp-22": 36.377,
+    "now": 36.377,
+    "gdp-22-23": -0.159,
+    "code": "mc",
+    "country": "Monaco"
+}, {
+    "gdp-22": 17591.475,
+    "now": 17591.475,
+    "gdp-22-23": 53.647,
+    "code": "nl",
+    "country": "Netherlands"
+}, {
+    "gdp-22": 8768.926,
+    "now": 8768.926,
+    "gdp-22-23": 55.486,
+    "code": "ch",
+    "country": "Switzerland"
+}, {
+    "gdp-22": 15.883,
+    "now": 15.883,
+    "gdp-22-23": 0.033,
+    "code": "ai",
+    "country": "Anguilla"
+}, {
+    "gdp-22": 94.038,
+    "now": 94.038,
+    "gdp-22-23": 0.52,
+    "code": "ag",
+    "country": "Antigua Barbuda"
+}, {
+    "gdp-22": 106.318,
+    "now": 106.318,
+    "gdp-22-23": -0.082,
+    "code": "aw",
+    "country": "Aruba"
+}, {
+    "gdp-22": 411.321,
+    "now": 411.321,
+    "gdp-22-23": 2.605,
+    "code": "bs",
+    "country": "Bahamas"
+}, {
+    "gdp-22": 281.83,
+    "now": 281.83,
+    "gdp-22-23": 0.331,
+    "code": "bb",
+    "country": "Barbados"
+}, {
+    "gdp-22": 27.084,
+    "now": 27.084,
+    "gdp-22-23": 0.128,
+    "code": "bq",
+    "country": "Bonaire S.E.S"
+}, {
+    "gdp-22": 31.425,
+    "now": 31.425,
+    "gdp-22-23": 0.226,
+    "code": "vg",
+    "country": "B.Virgin Islands"
+}, {
+    "gdp-22": 69.018,
+    "now": 69.018,
+    "gdp-22-23": 0.584,
+    "code": "ky",
+    "country": "Cayman Islands"
+}, {
+    "gdp-22": 11203.797,
+    "now": 11203.797,
+    "gdp-22-23": -18.696,
+    "code": "cu",
+    "country": "Cuba"
+}, {
+    "gdp-22": 191.624,
+    "now": 191.624,
+    "gdp-22-23": 0.906,
+    "code": "cw",
+    "country": "Curaçao"
+}, {
+    "gdp-22": 72.875,
+    "now": 72.875,
+    "gdp-22-23": 0.33,
+    "code": "dm",
+    "country": "Dominica"
+}, {
+    "gdp-22": 11281.875,
+    "now": 11281.875,
+    "gdp-22-23": 102.195,
+    "code": "do",
+    "country": "Dominican Rep.."
+}, {
+    "gdp-22": 125.822,
+    "now": 125.822,
+    "gdp-22-23": 0.723,
+    "code": "gd",
+    "country": "Grenada"
+}, {
+    "gdp-22": 395.588,
+    "now": 395.588,
+    "gdp-22-23": 0.502,
+    "code": "gp",
+    "country": "Guadeloupe"
+}, {
+    "gdp-22": 11653.948,
+    "now": 11653.948,
+    "gdp-22-23": 141.631,
+    "code": "ht",
+    "country": "Haiti"
+}, {
+    "gdp-22": 2825.763,
+    "now": 2825.763,
+    "gdp-22-23": -0.439,
+    "code": "jm",
+    "country": "Jamaica"
+}, {
+    "gdp-22": 367.254,
+    "now": 367.254,
+    "gdp-22-23": -0.547,
+    "code": "mq",
+    "country": "Martinique"
+}, {
+    "gdp-22": 4.391,
+    "now": 4.391,
+    "gdp-22-23": -0.009,
+    "code": "ms",
+    "country": "Montserrat"
+}, {
+    "gdp-22": 3255.67,
+    "now": 3255.67,
+    "gdp-22-23": 9.288,
+    "code": "pr",
+    "country": "Puerto Rico"
+}, {
+    "gdp-22": 10.979,
+    "now": 10.979,
+    "gdp-22-23": 0.03,
+    "code": "bl",
+    "country": "Saint Barthélemy"
+}, {
+    "gdp-22": 47.706,
+    "now": 47.706,
+    "gdp-22-23": 0.098,
+    "code": "kn",
+    "country": "Saint Kitts Nevis"
+}, {
+    "gdp-22": 179.963,
+    "now": 179.963,
+    "gdp-22-23": 0.576,
+    "code": "lc",
+    "country": "Saint Lucia"
+}, {
+    "gdp-22": 31.943,
+    "now": 31.943,
+    "gdp-22-23": 0.268,
+    "code": "mf",
+    "country": "Saint Martin Fr.."
+}, {
+    "gdp-22": 103.784,
+    "now": 103.784,
+    "gdp-22-23": -0.171,
+    "code": "vc",
+    "country": "S.V.Grenadines"
+}, {
+    "gdp-22": 44.182,
+    "now": 44.182,
+    "gdp-22-23": 0.08,
+    "code": "sx",
+    "country": "Sint Maarten Dut"
+}, {
+    "gdp-22": 1533.157,
+    "now": 1533.157,
+    "gdp-22-23": 3.56,
+    "code": "tt",
+    "country": "Trinidad Tobago"
+}, {
+    "gdp-22": 45.876,
+    "now": 45.876,
+    "gdp-22-23": 0.371,
+    "code": "tc",
+    "country": "Turks C.Islands"
+}, {
+    "gdp-22": 99.09,
+    "now": 99.09,
+    "gdp-22-23": -0.68,
+    "code": "vi",
+    "country": "US Virgin Islands"
+}, {
+    "gdp-22": 407.898,
+    "now": 407.898,
+    "gdp-22-23": 5.854,
+    "code": "bz",
+    "country": "Belize"
+}, {
+    "gdp-22": 5194.595,
+    "now": 5194.595,
+    "gdp-22-23": 35.156,
+    "code": "cr",
+    "country": "Costa Rica"
+}, {
+    "gdp-22": 6348.989,
+    "now": 6348.989,
+    "gdp-22-23": 31.907,
+    "code": "sv",
+    "country": "El Salvador"
+}, {
+    "gdp-22": 17965.114,
+    "now": 17965.114,
+    "gdp-22-23": 253.824,
+    "code": "gt",
+    "country": "Guatemala"
+}, {
+    "gdp-22": 10510.764,
+    "now": 10510.764,
+    "gdp-22-23": 166.068,
+    "code": "hn",
+    "country": "Honduras"
+}, {
+    "gdp-22": 127984.117,
+    "now": 127984.117,
+    "gdp-22-23": 942.899,
+    "code": "mx",
+    "country": "Mexico"
+}, {
+    "gdp-22": 6997.79,
+    "now": 6997.79,
+    "gdp-22-23": 97.041,
+    "code": "ni",
+    "country": "Nicaragua"
+}, {
+    "gdp-22": 4437.879,
+    "now": 4437.879,
+    "gdp-22-23": 60.415,
+    "code": "pa",
+    "country": "Panama"
+}, {
+    "gdp-22": 45630.699,
+    "now": 45630.699,
+    "gdp-22-23": 286.37,
+    "code": "ar",
+    "country": "Argentina"
+}, {
+    "gdp-22": 12299.254,
+    "now": 12299.254,
+    "gdp-22-23": 178.634,
+    "code": "bo",
+    "country": "Bolivia"
+}, {
+    "gdp-22": 215802.222,
+    "now": 215802.222,
+    "gdp-22-23": 1240.448,
+    "code": "br",
+    "country": "Brazil"
+}, {
+    "gdp-22": 19615.038,
+    "now": 19615.038,
+    "gdp-22-23": 29.104,
+    "code": "cl",
+    "country": "Chile"
+}, {
+    "gdp-22": 51959.221,
+    "now": 51959.221,
+    "gdp-22-23": 251.893,
+    "code": "co",
+    "country": "Colombia"
+}, {
+    "gdp-22": 18096.554,
+    "now": 18096.554,
+    "gdp-22-23": 187.86,
+    "code": "ec",
+    "country": "Ecuador"
+}, {
+    "gdp-22": 3.788,
+    "now": 3.788,
+    "gdp-22-23": 0.006,
+    "code": "fk",
+    "country": "Falkland Islands"
+}, {
+    "gdp-22": 308.345,
+    "now": 308.345,
+    "gdp-22-23": 7.62,
+    "code": "gf",
+    "country": "French Guiana"
+}, {
+    "gdp-22": 810.879,
+    "now": 810.879,
+    "gdp-22-23": 5.91,
+    "code": "gy",
+    "country": "Guyana"
+}, {
+    "gdp-22": 6818.241,
+    "now": 6818.241,
+    "gdp-22-23": 86.565,
+    "code": "py",
+    "country": "Paraguay"
+}, {
+    "gdp-22": 34187.465,
+    "now": 34187.465,
+    "gdp-22-23": 330.507,
+    "code": "pe",
+    "country": "Peru"
+}, {
+    "gdp-22": 620.437,
+    "now": 620.437,
+    "gdp-22-23": 5.599,
+    "code": "sr",
+    "country": "Suriname"
+}, {
+    "gdp-22": 3422.97,
+    "now": 3422.97,
+    "gdp-22-23": 0.277,
+    "code": "uy",
+    "country": "Uruguay"
+}, {
+    "gdp-22": 28555.733,
+    "now": 28555.733,
+    "gdp-22-23": 565.532,
+    "code": "ve",
+    "country": "Venezuela"
+}, {
+    "gdp-22": 64.132,
+    "now": 64.132,
+    "gdp-22-23": -0.126,
+    "code": "bm",
+    "country": "Bermuda"
+}, {
+    "gdp-22": 38617.808,
+    "now": 38617.808,
+    "gdp-22-23": 326.967,
+    "code": "ca",
+    "country": "Canada"
+}, {
+    "gdp-22": 56.565,
+    "now": 56.565,
+    "gdp-22-23": 0.156,
+    "code": "gl",
+    "country": "Greenland"
+}, {
+    "gdp-22": 5.852,
+    "now": 5.852,
+    "gdp-22-23": -0.024,
+    "code": "pm",
+    "country": "Saint Pierre Miq.."
+},  {
+    "gdp-22": 26308.571,
+    "now": 26308.571,
+    "gdp-22-23": 261.081,
+    "code": "au",
+    "country": "Australia"
+}, {
+    "gdp-22": 5206.893,
+    "now": 5206.893,
+    "gdp-22-23": 42.413,
+    "code": "nz",
+    "country": "New Zealand"
+}, {
+    "gdp-22": 933.066,
+    "now": 933.066,
+    "gdp-22-23": 6.619,
+    "code": "fj",
+    "country": "Fiji"
+}, {
+    "gdp-22": 291.488,
+    "now": 291.488,
+    "gdp-22-23": 3.006,
+    "code": "nc",
+    "country": "New Caledonia"
+}, {
+    "gdp-22": 10236.825,
+    "now": 10236.825,
+    "gdp-22-23": 186.211,
+    "code": "pg",
+    "country": "Papua N.Guinea"
+}, {
+    "gdp-22": 732.327,
+    "now": 732.327,
+    "gdp-22-23": 16.195,
+    "code": "sb",
+    "country": "Solomon Islands"
+}, {
+    "gdp-22": 330.606,
+    "now": 330.606,
+    "gdp-22-23": 7.8,
+    "code": "vu",
+    "country": "Vanuatu"
+}, {
+    "gdp-22": 172.367,
+    "now": 172.367,
+    "gdp-22-23": 1.17,
+    "code": "gu",
+    "country": "Guam"
+}, {
+    "gdp-22": 132.386,
+    "now": 132.386,
+    "gdp-22-23": 2.258,
+    "code": "ki",
+    "country": "Kiribati"
+}, {
+    "gdp-22": 41.784,
+    "now": 41.784,
+    "gdp-22-23": 0.424,
+    "code": "mh",
+    "country": "Marshall Islands"
+}, {
+    "gdp-22": 114.69,
+    "now": 114.69,
+    "gdp-22-23": 1.068,
+    "code": "fm",
+    "country": "Micronesia"
+}, {
+    "gdp-22": 12.727,
+    "now": 12.727,
+    "gdp-22-23": 0.106,
+    "code": "nr",
+    "country": "Nauru"
+}, {
+    "gdp-22": 49.682,
+    "now": 49.682,
+    "gdp-22-23": 0.228,
+    "code": "mp",
+    "country": "N.MarianaIslands"
+}, {
+    "gdp-22": 18.058,
+    "now": 18.058,
+    "gdp-22-23": -0.001,
+    "code": "pw",
+    "country": "Palau"
+}, {
+    "gdp-22": 44.099,
+    "now": 44.099,
+    "gdp-22-23": -0.369,
+    "code": "as",
+    "country": "American Samoa"
+}, {
+    "gdp-22": 17.032,
+    "now": 17.032,
+    "gdp-22-23": 0.023,
+    "code": "ck",
+    "country": "Cook Islands"
+}, {
+    "gdp-22": 307.591,
+    "now": 307.591,
+    "gdp-22-23": 2.561,
+    "code": "pf",
+    "country": "French Polynesia"
+}, {
+    "gdp-22": 1.936,
+    "now": 1.936,
+    "gdp-22-23": -0.002,
+    "code": "nu",
+    "country": "Niue"
+}, {
+    "gdp-22": 224.036,
+    "now": 224.036,
+    "gdp-22-23": 3.29,
+    "code": "ws",
+    "country": "Samoa"
+}, {
+    "gdp-22": 1.881,
+    "now": 1.881,
+    "gdp-22-23": 0.023,
+    "code": "tk",
+    "country": "Tokelau"
+}, {
+    "gdp-22": 107.316,
+    "now": 107.316,
+    "gdp-22-23": 0.914,
+    "code": "to",
+    "country": "Tonga"
+}, {
+    "gdp-22": 11.356,
+    "now": 11.356,
+    "gdp-22-23": 0.08,
+    "code": "tv",
+    "country": "Tuvalu"
+}, {
+    "gdp-22": 11.532,
+    "now": 11.532,
+    "gdp-22-23": -0.061,
+    "code": "wf",
+    "country": "W.Futuna Islands"
+}]
